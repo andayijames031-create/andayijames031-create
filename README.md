@@ -1,31 +1,82 @@
-🔭 I’m working on: pharmtrack,a medication tracking/management app (link below)
+# James
 
-• 🌱 I’m learning: production-grade testing and deployment, secure data storage
+### Software Engineer
 
-• 👯 I’m open to collaborating on health tech, APIs, and devops
+Building practical software for businesses with a focus on offline-first applications, data engineering, and scalable systems.
 
-• 💬 Ask me about: Python, Django, REST APIs, data models
+<br>
 
-• 📫 How to reach me: add your email, LinkedIn, or Twitter link here
+## 🚀 What I'm Building
 
-Current project
+- PharmTrack
+  Offline-first pharmacy ERP and POS for Kenyan pharmacies.
 
-• pharmtrack— medication tracking system: basic CRUD, auth, and a simple UI. (A pos doesnt need to look rugged to make sense.its coming to a point everything might be on mobile,)
+- PillarSoftware
+  Business software designed for growing businesses.
 
-My GitHub stats
+- Data Engineering Projects
+  ETL pipelines, web scraping, and searchable datasets.
 
-Tech & Tools
+<br>
 
-• Languages: Python, JavaScript
+## 🛠 Tech Stack
 
-• Frameworks: Django, React,FastAPI
+### Languages
 
-• Databases: PostgreSQL / SQLite
+- TypeScript
+- Python
+- JavaScript
+- SQL
 
-• Dev: Git, Docker, GitHub Actions
+### Frontend
 
-Contact:0701220345
+- React
+- Vite
+- Tailwind CSS
+- shadcn/ui
 
-• Email: andayijames031@gmail.com
+### Backend
 
-• Twitter:https://x.com/nowiknow031?s=11
+- Supabase
+- PostgreSQL
+- FastAPI
+
+### Data Engineering
+
+- Web Scraping
+- ETL Pipelines
+- Data Cleaning
+- Data Integration
+
+### Developer Tools
+
+- Git
+- GitHub
+- Docker
+- GitHub Actions
+- Playwright
+
+<br>
+
+## 📚 Currently Learning
+
+- Data Engineering
+- System Design
+- Backend Architecture
+- Search Systems
+
+<br>
+
+## 📫 Contact
+
+Email
+
+- andayijames031@gmail.com
+
+Twitter/X
+
+- https://x.com/nowiknow031
+
+Portfolio
+
+- https://pillarsoftware.vercel.app
