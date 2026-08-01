@@ -10,7 +10,7 @@
 
 Current project
 
-• pharmtrack— medication tracking system: basic CRUD, auth, and a simple UI. (Add short one-line description of goals)
+• pharmtrack— medication tracking system: basic CRUD, auth, and a simple UI. (A pos doesnt need to look rugged to make sense.its coming to a point everything might be on mobile,)
 
 My GitHub stats
 
@@ -18,7 +18,7 @@ Tech & Tools
 
 • Languages: Python, JavaScript
 
-• Frameworks: Django, React (if used), FastAPI (if used)
+• Frameworks: Django, React,FastAPI
 
 • Databases: PostgreSQL / SQLite
 
