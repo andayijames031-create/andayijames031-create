@@ -1,6 +1,6 @@
 # James
 
-### Software Engineer
+### Software Engineer/Mechanical engineer
 
 Building practical software for businesses with a focus on offline-first applications, data engineering, and scalable systems.
 
