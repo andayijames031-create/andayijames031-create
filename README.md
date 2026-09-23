@@ -11,7 +11,7 @@ Building practical software for businesses with a focus on offline-first applica
 - PharmTrack
   Offline-first pharmacy ERP and POS for Kenyan pharmacies.
 
-- PillarSoftware
+- PillarOS
   Business software designed for growing businesses.
 
 - Data Engineering Projects
@@ -72,11 +72,3 @@ Building practical software for businesses with a focus on offline-first applica
 Email
 
 - andayijames031@gmail.com
-
-Twitter/X
-
-- https://x.com/nowiknow031
-
-Portfolio
-
-- https://pillarsoftware.vercel.app
