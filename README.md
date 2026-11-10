@@ -1,21 +1,15 @@
 # James
 
-### Software Engineer/Mechanical engineer
+### ai/data engineer
 
 Building practical software for businesses with a focus on offline-first applications, data engineering, and scalable systems.
 
 <br>
 
-## 🚀 What I'm Building
+## 🚀 What I'm Building 
 
-- PharmTrack
-  Offline-first pharmacy ERP and POS for Kenyan pharmacies.
-
-- PillarOS
-  Business software designed for growing businesses.
-
-- Data Engineering Projects
-  ETL pipelines, web scraping, and searchable datasets.
+- mern school management system
+  using nfc tags for attendance tracking.
 
 <br>
 
@@ -72,3 +66,7 @@ Building practical software for businesses with a focus on offline-first applica
 Email
 
 - andayijames031@gmail.com
+
+instagram
+
+-jimkariuki031_
